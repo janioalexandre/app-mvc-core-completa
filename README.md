@@ -1,2 +1,2 @@
-# app-mvc-core-completa
-Aplicação MVC Core Completa
+# Desenvolvimento de uma aplicação MVC Core completa
+
